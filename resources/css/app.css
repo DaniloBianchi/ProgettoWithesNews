@@ -1,0 +1,12 @@
+@import 'bootstrap';
+h1{
+    color:#0ae0f3;
+       font-size: 4rem;
+};
+.colour{
+    color:goldenrod;
+    font-size: 100px;
+}
+body{
+    background-color: rgb(206, 218, 246);
+};
